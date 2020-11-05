@@ -1,4 +1,4 @@
-const express = require('express');
+const router = require('express');
 const path = require("path");
 
 
@@ -15,3 +15,5 @@ router.get('/notes', function (req, res) {
 router.get('*', function (req, res) {
     res.send('../public/index.hmtl');
   })
+
+module.exports = router;
