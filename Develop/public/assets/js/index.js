@@ -102,7 +102,9 @@ const handleRenderSaveBtn = function () {
 };
 
 // Render's the list of note titles
+
 const renderNoteList = (notes) => {
+  console.log(JSON.stringify(notes))
   $noteList.empty();
 
   const noteListItems = [];
