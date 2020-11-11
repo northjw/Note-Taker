@@ -35,9 +35,9 @@ this is an application that the user can create, save, and delete notes. The not
   
   ![badge](https://img.shields.io/badge/license-MIT-green)
   
-  
-<iframe src="https://drive.google.com/file/d/1YPfv_8ruZg-qjQbjfShbB7tjIZUCyvp8/view" width="640" height="480">
-</iframe>
+## Video Tutorial
+[Click here to view video](https://drive.google.com/file/d/1YPfv_8ruZg-qjQbjfShbB7tjIZUCyvp8/view)
+
 
 
   <br />
