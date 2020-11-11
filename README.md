@@ -24,17 +24,21 @@ this is an application that the user can create, save, and delete notes. The not
 - [Questions](#questions)<br />
 
 
-<h3>Description</h3>
+## Description
     this is an application that the user can create, save, and delete notes. The notes will contain a title and a body.
-<h3>Installation</h3>
+## Installation
     npm i, node server.js
- <h3> Usage</h3>
+## Usage
    For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
-  <h3> License</h3>
-  This application is covered by the MIT license;
+## License
+  This application is covered by the MIT license
+  
   ![badge](https://img.shields.io/badge/license-MIT-green)
   
-  <iframe src="https://drive.google.com/file/d/1YPfv_8ruZg-qjQbjfShbB7tjIZUCyvp8/preview" width="640" height="480"></iframe>
+  
+<iframe src="https://drive.google.com/file/d/1YPfv_8ruZg-qjQbjfShbB7tjIZUCyvp8/view" width="640" height="480">
+</iframe>
+
 
   <br />
 
